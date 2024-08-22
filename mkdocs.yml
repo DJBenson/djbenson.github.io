@@ -1,5 +1,6 @@
 site_name: DJBenson's HA Stuff
 site_url: https://djbenson.github.io
+repo_url: https://github.com/djbenson/ha-stuff
 theme:
   name: material
   features:
@@ -9,4 +10,7 @@ theme:
     - navigation.path
     - toc.integrate
     - navigation.top
+    - search.highlight
 
+plugins:
+  - search
