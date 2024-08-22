@@ -1,6 +1,7 @@
 site_name: DJBenson's HA Stuff
 site_url: https://djbenson.github.io
-repo_url: djbenson/ha-stuff
+repo_url: https://github.com/djbenson/ha-stuff
+repo_name: djbenson/ha-stuff
 theme:
   name: material
   features:
@@ -14,3 +15,6 @@ theme:
 
 plugins:
   - search
+
+nav:
+  - Home: index.md
