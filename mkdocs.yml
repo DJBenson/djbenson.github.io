@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: DJBenson's HA Stuff
+site_url: https://djbenson.github.io
+theme:
+  name: material
